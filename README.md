@@ -1,5 +1,9 @@
 # README
 
+## Usage
+
+Before usage download [model](https://drive.google.com/file/d/1qXsQJ8ZT42_xSmWIYy85IcidpiZudOCB/view?usp=sharing) and put in src/models. Otherwise model will download itself.
+
 ## Pre-commit Hook Installation
 
 Before pushing any changes to the repository, it's necessary to install the pre-commit hook. This hook ensures that certain checks are performed automatically before committing changes, helping to maintain code quality and consistency.
